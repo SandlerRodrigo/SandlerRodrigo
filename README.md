@@ -5,16 +5,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigosandler_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sandler-1945a9220/)
 
-<div align="start">
-  <div style="height: 160em; display: inline-block;">
-
-![Rodrigo Sandler's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandlerRodrigo&show_icons=true&theme=tokyonight)
-  </div>
-  <div style="height: 160em;; display: inline-block;">
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandlerRodrigo&layout=compact&theme=tokyonight)
-  </div>
-</div>
+<div align="center">
+  <a href="https://github.com/SandlerRodrigo">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SandlerRodrigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandlerRodrigo&layout=compact&langs_count=7&theme=dark"/>
+</div> 
 
 ## Techs I'm most used to: 
 
