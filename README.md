@@ -7,10 +7,12 @@
 
 <div align="start">
   <div style="height: 160em; display: inline-block;">
-    ![Rodrigo Sandler's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandlerRodrigo&show_icons=true&theme=tokyonight)
+
+![Rodrigo Sandler's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandlerRodrigo&show_icons=true&theme=tokyonight)
   </div>
   <div style="height: 160em;; display: inline-block;">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandlerRodrigo&layout=compact&theme=tokyonight)
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandlerRodrigo&layout=compact&theme=tokyonight)
   </div>
 </div>
 
