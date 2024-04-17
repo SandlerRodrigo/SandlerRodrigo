@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Rodrigo 🤓☝️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigosandler_/){:target="_blank"}
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sandler-1945a9220/){:target="_blank"}
 
 ![Rodrigo Sandler's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandlerRodrigo&show_icons=true&theme=gruvbox)
