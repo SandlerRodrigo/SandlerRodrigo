@@ -11,7 +11,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandlerRodrigo&layout=compact&langs_count=7&theme=dark"/>
 </div> 
 
-## Techs I'm most used to: 
+<div>
+  <h3>Techs I'm most used to: </h3>
+</div>
 
 <div style="display: inline-block">
     <img align="center" alt="Html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -20,8 +22,8 @@
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     
-</div>
+</div><br/>
 
-<br/>
-
-<p style="font-size: 12pt;">Tech enthusiast and currently focused on my CS studies at PUCRS</p>
+<p style="font-size: 12pt;">
+  Tech enthusiast and currently focused on my CS studies at PUCRS
+</p>
